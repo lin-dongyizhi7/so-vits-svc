@@ -1,4 +1,2 @@
-./dataset/44k/nyaru/000003.wav
-./dataset/44k/nyaru/000007.wav
-./dataset/44k/taffy/000558.wav
-./dataset/44k/taffy/000556.wav
+./dataset/44k/keqing/35_my_kq35_Vocals_0_1.wav
+./dataset/44k/keqing/108_my_kq108_Vocals_0.wav
